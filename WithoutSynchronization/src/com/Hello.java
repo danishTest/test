@@ -12,5 +12,6 @@ public class Hello{
 		
 		System.out.println("Check");
 		System.out.println("Check once more");
+		System.out.println("Check twice");
 	}
 }
