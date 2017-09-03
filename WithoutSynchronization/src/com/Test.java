@@ -22,5 +22,9 @@ public class Test implements Runnable {
 		}
 		
 	}
+	
+	public void check(){
+		System.out.println("Check");
+	}
 
 }
