@@ -21,6 +21,7 @@ public class Test implements Runnable {
 			threads[i].start();
 		}
 		
+		System.out.println("This is not good");
 	}
 	
 	public void check(){
