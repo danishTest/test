@@ -7,4 +7,8 @@ public class Hello{
 	public void sayHello(){
 		System.out.println("Check");
 	}
+	
+	public void check(){
+		System.out.println("Check");
+	}
 }
