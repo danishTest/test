@@ -9,6 +9,8 @@ public class Hello{
 	}
 	
 	public void check(){
+		
 		System.out.println("Check");
+		System.out.println("Check once more");
 	}
 }
